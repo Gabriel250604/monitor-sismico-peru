@@ -4,5 +4,4 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 data/processed/*.csv
-docs/*.pbix
 data/raw/*.json
